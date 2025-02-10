@@ -11,7 +11,7 @@ app.use(express.json());
 // app.use(cors());
 app.use(
   cors({
-    origin: "https://zero-aqua-coke.github.io", // 여러분들 거
+    origin: "https://datapulsex.github.io/",
     methods: ["POST"],
     allowedHeaders: ["Content-Type"],
   })
